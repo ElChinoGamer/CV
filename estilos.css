@@ -1,0 +1,21 @@
+.custom-navbar{
+     background-color:#040911;
+}
+.nav-link{
+    color: #00eeff !important;
+    
+}
+.nav-link:hover{
+    color: #ea00ff !important;
+}
+ img{
+     border-radius:20%
+ }
+ body{
+    background-color:#081222 !important;
+    color: #ea00ff !important;
+ }
+ h1:hover{
+    color: #00eeff !important;
+    
+}
